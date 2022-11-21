@@ -19,8 +19,8 @@ This is a web based application developed for fitness related based website in i
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- Has collection of many web pages including Home, About Us, Contact, Menu, classes and fitness related information etc.
+- User can know about workouts information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots -![Workout -  11_22_2022 12_25_06 AM](https://user-images.githubusercontent.com/112804420/203137131-8203515d-3a0f-459e-b381-b2d3bb1665fc.png)

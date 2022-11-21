@@ -23,32 +23,28 @@ This is a web based application developed for fitness related based website in i
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots!
+## Screenshots -![Workout -  11_22_2022 12_25_06 AM](https://user-images.githubusercontent.com/112804420/203137131-8203515d-3a0f-459e-b381-b2d3bb1665fc.png)
 
 
-![Workout -  11_21_2022 11_46_26 PM](https://user-images.githubusercontent.com/112804420/203132240-d54d3308-c811-41ab-afba-865a8135009f.png)
+
 
 
    
 
 ### About Us -
 
-![Workout -11_22_2022 12_04_29 AM](https://user-images.githubusercontent.com/112804420/203135072-3792edc0-6e61-4784-8e7f-159416e68c97.png)
+![Workout -11_22_2022 12_04_29 AM](https://user-images.githubusercontent.com/112804420/203138240-0a2e69c1-1ade-45a0-9222-6cb49c0c2ca6.png)
 
 ### Services-
-![Workout -11_22_2022 12_04_29 AM](https://user-images.githubusercontent.com/112804420/203133804-43c6ce95-5b11-4062-a8a2-99f2d4705c73.png)
+![Workout - 11_22_2022 12_36_17 AM](https://user-images.githubusercontent.com/112804420/203139049-f44c8089-4b92-406f-9a93-701d81a05751.png)
 
 
 ### Contact us -
-![Workout -  11_22_2022 12_08_10 AM](https://user-images.githubusercontent.com/112804420/203134129-2f69ba67-5049-4274-bc70-d90c9d916555.png)
+![Workout -  11_22_2022 12_08_10 AM](https://user-images.githubusercontent.com/112804420/203137653-d76716e2-5038-41a9-b85c-641116689677.png)
 
+### workout bot
 
-
-
-### health bot
-![Workout -  11_22_2022 12_10_41 AM](https://user-images.githubusercontent.com/112804420/203134564-5038433d-d0a8-4310-8e33-fde16082963d.png)
-
-
+![Workout -  11_22_2022 12_10_41 AM](https://user-images.githubusercontent.com/112804420/203137955-b2cd27c5-a90f-47f0-9f7f-e1560c7a6b18.png)
 
 
 ## Tech Stack 💻
